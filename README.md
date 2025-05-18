@@ -90,4 +90,6 @@ Given the high stakes of credit card fraud detection, evaluation metrics must al
 6.Cost Analysis: Integrate a cost-sensitive evaluation framework to account for the financial and reputational impact of false positives and false negatives, ensuring that the chosen model aligns with real-world priorities.
 
 By incorporating these comprehensive metrics, the project aims to deliver a reliable and actionable solution for credit card fraud detection that aligns with business goals and customer satisfaction.
+📺 [Watch Demo on YouTube](https://youtu.be/k93LNX6Qoco)
+
 
